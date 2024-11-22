@@ -4,7 +4,7 @@
 
 **🔧 Skills & Technologies I’m Exploring:**
 
-Programming Languages: Python, Java, HTML, CSS, SQL
+Programming Languages: Python, Java, HTML, SQL, CSS(Learning)
 
 Software Development: Object-Oriented Programming (OOP), Data Structures, Algorithms, Full-stack development
 
