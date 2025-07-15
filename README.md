@@ -1,47 +1,90 @@
-👨‍💻 **About Me**
+<h1 align="center">Dhruvi Gohel</h1>
+<h3 align="center">Full Stack Web Developer | AI/ML Learner | Passionate Technologist</h3>
 
-👋 Hello! I’m Dhruvi, a 2nd-year Computer Engineering student at LJ University, passionate about technology and software development. I’m excited to build a strong foundation in computer engineering and explore the intersection of hardware and software. My journey is all about learning, building projects, and contributing to the tech community.✨
+<p align="center">
+  <a href="mailto:dhruvigohel030@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhruvi-gohel-b8b937339/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Dhruvi3003">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
-**🔧 Skills & Technologies I’m Exploring:**
+---
 
-Programming Languages: Python, Java, HTML, SQL, CSS(Learning)
+## 🧑‍💼 About Me
 
-Software Development: Object-Oriented Programming (OOP), Data Structures, Algorithms, Full-stack development
+I'm a Computer Engineering student and passionate software developer focused on building impactful, user-centric digital products. My interest lies at the intersection of **full stack development** and **AI/ML applications**.  
+I enjoy building scalable web applications and intelligent systems that solve real-world problems.
 
-Tools & Technologies: Visual Studio Code, Anaconda
+- 🌍 Based in India  
+- 🛠️ Tech Focus: MERN Stack, Django, ML (Python)  
+- 💬 Open to collaboration on web + AI projects
 
-Database Management: MySQL, PostgreSQL
+---
 
-**📚 Currently Learning:**
+## 🔧 Tech Stack
 
-Advanced data structures and algorithms.
+**Languages**  
+`JavaScript` `Python` `SQL` `HTML` `CSS`
 
-Building real-world applications through projects.
+**Frontend**  
+`React.js` `Tailwind CSS` `Bootstrap` `Responsive UI Design`
 
-Web development basics and frontend technologies.
+**Backend & Frameworks**  
+`Node.js` `Express.js` `Django`
 
-**🚀 Why I Love Computer Engineering:**
+**Databases & Dev Tools**  
+`MongoDB` `MySQL` `Firebase` `Git` `GitHub` 
 
-I love learning how software interacts with hardware to create innovative solutions.
+---
 
-Building projects that challenge my problem-solving skills is what excites me.
+## 🚀 Projects
 
-The potential of artificial intelligence to change the world is a huge inspiration for me.
+### 🩺 Theracis – Physiotherapy Appointment Website  
+A responsive full-stack healthcare appointment system for physiotherapy clinics.  
+Built with **HTML, CSS, JS**, and **Django**, it supports booking management, therapist profiles, and a patient-friendly interface.
 
-I'm also very much interested in cyber security and want to explore more in it.
+🔗 [View Repository](https://github.com/Dhruvi3003/Healthcare_Appointment_System)
 
-**🤝 Looking to Collaborate:**
+---
 
-I'm eager to collaborate on projects related to web development, embedded systems, and cyber security.
-I enjoy learning from others and am always open to feedback and new ideas.
+### 🛍️ AI-Driven E-Commerce Website *(In Progress)*  
+An intelligent e-commerce platform built with **MERN stack** integrated with machine learning features like recommendation engines and customer sentiment analysis.
 
-**📬 Let’s Connect:**
+---
 
-Feel free to check out my repositories or reach out for collaboration opportunities!
+## 🎯 Learning Goals (2025)
 
-Email me at dhruvigohel030@gmail.com or connect with me on my LinkedIn profile: Dhruvi3003.
+- ✍🏻 Advanced Django + REST APIs  
+- 📊 Building ML models using `scikit-learn`, `NumPy`, `Pandas`  
+- 🧱 Clean Architecture & Design Patterns  
+- 🐳 Introduction to `Docker`, `TypeScript`, and DevOps basics
 
-<!---
-Dhruvi3003/Dhruvi3003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📜 Certifications
+
+- **TCS iON Career Edge – Young Professional**  
+  _Focus Areas:_ Communication, IT Foundations, Resume Writing, Presentation Skills
+
+---
+
+## 📫 Contact
+
+- **Email:** [dhruvigohel030@gmail.com](mailto:dhruvigohel030@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/dhruvi-gohel](https://www.linkedin.com/in/dhruvi-gohel-b8b937339/)  
+- **GitHub:** [github.com/Dhruvi3003](https://github.com/Dhruvi3003)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhruvi3003&label=Profile%20Views&color=blueviolet&style=flat-square" alt="dhruvigohel"/>
+</p>
+
+---
+
+> _“Simplicity is the soul of efficiency.” – Austin Freeman_
