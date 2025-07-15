@@ -81,10 +81,10 @@ An intelligent e-commerce platform built with **MERN stack** integrated with mac
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhruvi3003&label=Profile%20Views&color=blueviolet&style=flat-square" alt="dhruvigohel"/>
-</p>
+> _“Simplicity is the soul of efficiency.” – Austin Freeman_
 
 ---
 
-> _“Simplicity is the soul of efficiency.” – Austin Freeman_
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhruvi3003&label=Profile%20Views&color=blueviolet&style=flat-square" alt="dhruvigohel"/>
+</p>
